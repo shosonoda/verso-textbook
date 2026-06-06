@@ -1,0 +1,202 @@
+{"Verso.Genre.Manual.section":
+ {"title": "Sections or chapters of the manual",
+  "description": null,
+  "contents":
+  {"sec-ref":
+   [{"id": "sec-ref",
+     "data":
+     {"title": "Section References",
+      "shortTitle": null,
+      "sectionNum": "5.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Section References", "shortTitle": null, "number": "5"}]},
+     "address": "/Section-References/"}],
+   "index":
+   [{"id": "index",
+     "data":
+     {"title": "Index",
+      "shortTitle": null,
+      "sectionNum": null,
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Index", "shortTitle": null, "number": null}]},
+     "address": "/Index/"}],
+   "A-Textbook--Viewing-the-Output":
+   [{"id": "A-Textbook--Viewing-the-Output",
+     "data":
+     {"title": "Viewing the Output",
+      "shortTitle": null,
+      "sectionNum": "6.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Viewing the Output", "shortTitle": null, "number": "6"}]},
+     "address": "/Viewing-the-Output/"}],
+   "A-Textbook--Using-an-Index":
+   [{"id": "A-Textbook--Using-an-Index",
+     "data":
+     {"title": "Using an Index",
+      "shortTitle": null,
+      "sectionNum": "7.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Using an Index", "shortTitle": null, "number": "7"}]},
+     "address": "/Using-an-Index/"}],
+   "A-Textbook--The-Natural-Numbers":
+   [{"id": "A-Textbook--The-Natural-Numbers",
+     "data":
+     {"title": "The Natural Numbers",
+      "shortTitle": null,
+      "sectionNum": "2.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "The Natural Numbers", "shortTitle": null, "number": "2"}]},
+     "address": "/The-Natural-Numbers/"}],
+   "A-Textbook--Notes":
+   [{"id": "A-Textbook--Notes",
+     "data":
+     {"title": "Notes",
+      "shortTitle": null,
+      "sectionNum": "3.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Notes", "shortTitle": null, "number": "3"}]},
+     "address": "/Notes/"}],
+   "A-Textbook--Lean-Code--Saved-Lean-Code":
+   [{"id": "A-Textbook--Lean-Code--Saved-Lean-Code",
+     "data":
+     {"title": "Saved Lean Code",
+      "shortTitle": null,
+      "sectionNum": "1.1.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Lean Code", "shortTitle": null, "number": "1"},
+       {"title": "Saved Lean Code", "shortTitle": null, "number": "1"}]},
+     "address": "/Lean-Code/Saved-Lean-Code/"}],
+   "A-Textbook--Lean-Code":
+   [{"id": "A-Textbook--Lean-Code",
+     "data":
+     {"title": "Lean Code",
+      "shortTitle": null,
+      "sectionNum": "1.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Lean Code", "shortTitle": null, "number": "1"}]},
+     "address": "/Lean-Code/"}],
+   "A-Textbook--Citations":
+   [{"id": "A-Textbook--Citations",
+     "data":
+     {"title": "Citations",
+      "shortTitle": null,
+      "sectionNum": "4.",
+      "searchPriority": 50,
+      "context":
+      [{"title": "A Textbook", "shortTitle": null, "number": null},
+       {"title": "Citations", "shortTitle": null, "number": "4"}]},
+     "address": "/Citations/"}],
+   "A-Textbook":
+   [{"id": "A-Textbook",
+     "data":
+     {"title": "A Textbook",
+      "shortTitle": null,
+      "sectionNum": "",
+      "searchPriority": 50,
+      "context": [{"title": "A Textbook", "shortTitle": null, "number": null}]},
+     "address": "/"}]}},
+ "Verso.Genre.Manual.example":
+ {"title": "Verso.Genre.Manual.example",
+  "description": null,
+  "contents":
+  {"x":
+   [{"id": "x",
+     "data":
+     {"/Lean-Code/Saved-Lean-Code/#x":
+      {"display": "x",
+       "context": ["A Textbook", "Lean Code", "Saved Lean Code"]}},
+     "address": "/Lean-Code/Saved-Lean-Code/"}],
+   "NatList.nil":
+   [{"id": "NatList___nil",
+     "data":
+     {"/Lean-Code/#NatList___nil":
+      {"display": "nil", "context": ["A Textbook", "Lean Code"]}},
+     "address": "/Lean-Code/"}],
+   "NatList.cons":
+   [{"id": "NatList___cons",
+     "data":
+     {"/Lean-Code/#NatList___cons":
+      {"display": "cons", "context": ["A Textbook", "Lean Code"]}},
+     "address": "/Lean-Code/"}],
+   "NatList":
+   [{"id": "NatList",
+     "data":
+     {"/Lean-Code/#NatList":
+      {"display": "NatList", "context": ["A Textbook", "Lean Code"]}},
+     "address": "/Lean-Code/"}],
+   "MyNats.Nat.zero":
+   [{"id": "MyNats___Nat___zero",
+     "data":
+     {"/The-Natural-Numbers/#MyNats___Nat___zero":
+      {"display": "zero", "context": ["A Textbook", "The Natural Numbers"]}},
+     "address": "/The-Natural-Numbers/"}],
+   "MyNats.Nat.toNat":
+   [{"id": "MyNats___Nat___toNat",
+     "data":
+     {"/The-Natural-Numbers/#MyNats___Nat___toNat":
+      {"display": "Nat.toNat",
+       "context": ["A Textbook", "The Natural Numbers"]}},
+     "address": "/The-Natural-Numbers/"}],
+   "MyNats.Nat.succ":
+   [{"id": "MyNats___Nat___succ",
+     "data":
+     {"/The-Natural-Numbers/#MyNats___Nat___succ":
+      {"display": "succ", "context": ["A Textbook", "The Natural Numbers"]}},
+     "address": "/The-Natural-Numbers/"}],
+   "MyNats.Nat.ofNat":
+   [{"id": "MyNats___Nat___ofNat",
+     "data":
+     {"/The-Natural-Numbers/#MyNats___Nat___ofNat":
+      {"display": "Nat.ofNat",
+       "context": ["A Textbook", "The Natural Numbers"]}},
+     "address": "/The-Natural-Numbers/"}],
+   "MyNats.Nat.add":
+   [{"id": "MyNats___Nat___add",
+     "data":
+     {"/The-Natural-Numbers/#MyNats___Nat___add":
+      {"display": "Nat.add", "context": ["A Textbook", "The Natural Numbers"]}},
+     "address": "/The-Natural-Numbers/"}],
+   "MyNats.Nat":
+   [{"id": "MyNats___Nat",
+     "data":
+     {"/The-Natural-Numbers/#MyNats___Nat":
+      {"display": "Nat", "context": ["A Textbook", "The Natural Numbers"]}},
+     "address": "/The-Natural-Numbers/"}]}},
+ "Verso.Genre.Manual.doc.tech":
+ {"title": "Terminology",
+  "description": "Definitions of technical terms",
+  "contents": {}},
+ "Verso.Genre.Manual.doc.tactic.conv":
+ {"title": "Conversion Tactics",
+  "description": "Tactics for performing targeted rewriting of subterms",
+  "contents": {}},
+ "Verso.Genre.Manual.doc.tactic":
+ {"title": "Tactic Documentation",
+  "description": "Detailed descriptions of tactics",
+  "contents": {}},
+ "Verso.Genre.Manual.doc.suggestion":
+ {"title": "Lean constant suggestions",
+  "description": "Search suggestions for Lean constants",
+  "contents": {}},
+ "Verso.Genre.Manual.doc.option":
+ {"title": "Compiler options", "description": null, "contents": {}},
+ "Verso.Genre.Manual.doc":
+ {"title": "Lean constant reference",
+  "description": "Documentation for Lean constants",
+  "contents": {}}}
