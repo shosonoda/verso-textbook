@@ -1,1 +1,0 @@
-window.docContents[16].resolve({"/#A-Textbook":{"contents":"\nHere's an example project showing how to build a certain kind of textbook with Verso.\nIt's a good idea to read the document's source together with the rendered output, because it demonstrates how to use various features.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n","context":"","header":"A Textbook","id":"/#A-Textbook"}});

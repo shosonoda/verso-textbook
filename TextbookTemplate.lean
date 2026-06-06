@@ -85,6 +85,13 @@ Expected error messages must be indicated explicitly:
 Unknown identifier `y`
 ```
 
+# 数式のテスト
+Verso では backtick 記法で
+```
+$`y=f(x)
+```
+と書くと $`y=f(x)` となる
+
 {include 1 TextbookTemplate.Nat}
 
 # Notes

@@ -1,0 +1,1 @@
+window.docContents[171].resolve({"/Notes/#A-Textbook--Notes":{"contents":"Use margin to create a marginal note.Marginal notes should be used like footnotes.\n\n","context":"A Textbook","header":"4. Notes","id":"/Notes/#A-Textbook--Notes"}});

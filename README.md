@@ -23,4 +23,28 @@ custom build step `buildExercises` traverses the entire book prior to HTML
 generation, collecting the exercise blocks. The collected blocks are assembled
 into files and written to the `example-code` subdirectory of the output.
 
+---
 
+- 手動で追加
+  - serve.py
+  - .gitignore
+  - prepare-pages.sh
+    ```bash
+    chmod +x prepare-pages.sh && ls -l prepare-pages.sh # 権限変更
+    ```
+
+- ローカル実行
+  ```bash
+  curl -sSfL https://raw.githubusercontent.com/leanprover/verso-templates/main/verso-init.sh | sh
+
+  lake build
+  lake exe textbook
+
+  python3 serve.py 8000
+  ```
+  - URL: http://localhost:8000/
+
+- GitHub Pages
+  ```bash
+  ./prepare-pages.sh # (root)/docs に移動 + touch .nojekyll
+  ```
