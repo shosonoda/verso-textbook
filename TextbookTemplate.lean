@@ -88,7 +88,7 @@ Unknown identifier `y`
 # 数式のテスト
 Verso では backtick 記法で
 ```
-$`y=f(x)
+$`y=f(x)`
 ```
 と書くと $`y=f(x)` となる
 
